@@ -1,0 +1,135 @@
+.content {
+    font-family: 'IBM Plex Sans', sans-serif;
+    max-width: 810px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.mono {
+    font-family: 'Traveling Typewriter', monospace;
+    font-size: medium;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.code {
+    font-family: 'Traveling Typewriter', monospace;
+    font-size: medium;
+    background-color: mintcream;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+ul.atrr li {
+    padding-bottom: 0px;
+}
+
+h1 {
+    font-family: 'Traveling Typewriter', monospace;
+    margin-bottom: 10%;
+}
+
+.sh1 {
+    font-family: 'Traveling Typewriter', monospace;
+}
+
+h2 {
+    font-family: 'Traveling Typewriter', monospace;
+    margin-top: 6%;
+    border-left: 0px solid rgb(29, 158, 3);
+    transition: all 200ms;
+}
+
+h2:hover {
+    border-left: 6px solid rgb(29, 158, 3);
+    padding-left: 5px;
+    transition: all 200ms;
+}
+
+h3 {
+    font-family: 'Traveling Typewriter', monospace;
+}
+
+h4 {
+    font-family: 'Traveling Typewriter', monospace;
+}
+
+.buttons {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    bottom: 140px;
+    left: 50px;
+    width: 150px;
+    height: 100px;
+    background-color: #ED1882;
+}
+
+.button {
+    font-family: 'Traveling Typewriter', monospace;
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+    background-color: #F2B01F;
+}
+
+.button:hover {
+    opacity: 80%;
+}
+
+
+.map {
+    margin-top: 20px;
+}
+
+.neigborhood:hover {
+    opacity: 70%;
+}
+
+.selected:hover {
+    opacity: 80%;
+}
+
+
+
+
+.subtitle {
+    font-family: 'Traveling Typewriter', monospace;
+    font-size: medium;
+}
+
+
+.data {
+    margin-top: 20px;
+}
+
+.atribute {
+    font-family: 'Traveling Typewriter', monospace;
+    font-size: large;
+}
+
+.percentage {
+    font-family: 'Traveling Typewriter', monospace;
+    font-size: smaller;
+}
+
+.label {
+    font-family: 'Traveling Typewriter', monospace;
+    font-size: x-small;
+}
+
+.bar:hover {
+    opacity: 80%;
+}
