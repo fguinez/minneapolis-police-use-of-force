@@ -6,7 +6,7 @@ _Read this in other languages: [🇪🇸Español](https://github.com/fguinez/min
 
 ![Previsualización](https://i.imgur.com/tM4rTQf.png)
 
-_Desarrollado en 2020 en el contexto del exámen final del curso Visualización de Información (IIC2026) de la Pontificia Universidad Católica_
+_Desarrollado en 2020 en el contexto del exámen final del curso Visualización de Información (IIC2026) de la Pontificia Universidad Católica de Chile_
 
 ## Instrucciones de uso local
 
