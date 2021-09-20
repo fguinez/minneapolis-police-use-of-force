@@ -2,6 +2,7 @@
 
 Visualización de los datos disponibles en [kaggle](https://www.kaggle.com/paultimothymooney/minneapolis-police-stops-and-police-violence) sobre violencia policial en la ciudad de Minneapolis. Puedes revisar la visualización [aquí](https://puc-infovis.github.io/version-2020/salon_de_la_fama/Gui%C3%B1ez_Francisco/Visualizaci%C3%B3n/index.html).
 
+_Read this in other languages: [🇪🇸Español](https://github.com/fguinez/minneapolis-police-use-of-force/blob/main/README.md), [🇬🇧English](https://github.com/fguinez/minneapolis-police-use-of-force/blob/main/README.eng.md)._
 
 ![Previsualización](https://i.imgur.com/tM4rTQf.png)
 
