@@ -19,6 +19,14 @@ Luego, hay que dirigirse a `http://0.0.0.0:8000/` desde el navegador.
 
 * **Nota:** Si intenta abrir directamente el archivo `index.html` en el navegador muy probablemente no se visualizará todo el contenido por el [error CORS](https://developer.mozilla.org/es/docs/Web/HTTP/CORS/Errors/CORSRequestNotHttp?utm_source=devtools&utm_medium=firefox-cors-errors&utm_campaign=default).
 
+## Tareas pendientes
+
+A continuación se presenta una lista de ideas para mejorar la visualización que aun no se han implementado:
+
+- _Tooltip_ que detalle todos los porcentajes al realizar _hover_ sobre el apartado de "Otros"
+- Añadir la opción de traducir los textos de la visualización a inglés
+
+¿Quieres concretar una de estas ideas? ¡Adelante, realiza un fork de este repositorio!
 
 ## Links
 
